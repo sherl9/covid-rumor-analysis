@@ -4,7 +4,7 @@ An NLP project aiming at detecting and analyzing covid-19 rumors on Twitter.
 
 Score: 28/30
 
-# Research questions: 
+# Research questions
 
 Provide accurate rumor detection solutions, identify rumors from a set of covid tweets and study the characteristics of covid rumors. 
 
@@ -18,7 +18,7 @@ In particular,
 
 (iv) finally, does the sentiment and emotion distribution on rumors and retweets vary from truth? We present our task-based answers as follows.
 
-# Summary:
+# Summary
 
 ## Task I - coivd rumor detection
 
