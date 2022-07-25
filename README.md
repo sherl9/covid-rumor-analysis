@@ -2,7 +2,7 @@
 
 An NLP project aiming at detecting and analyzing covid-19 rumors on Twitter.
 
-Score: 28/30
+Total score: 30.1/35
 
 # Research questions
 
