@@ -25,7 +25,7 @@ In particular,
 Models used: Naive Bayes, Logistic Regression, BERT, BERTweet, and an ensemble.
 Results on Kaggel: highest F1 score was 0.934
 
-## Task II - explanatory analysis of covid rumor tweets
+## Task II - exploratory analysis of covid rumor tweets
 
 "Applying our model on the covid dataset (around 200k), we recognized 2060 rumors and 13896 replies in total, with their counterparts being 22802 and 107150 correspondingly. The tweets were produced by 6644 unique users, between January 9th and August 1st."
 
